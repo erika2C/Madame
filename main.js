@@ -5,14 +5,43 @@ const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
-{
-    enunciado: "pergunta 1",
-    alternativas: [
-        "Alternativa 1",
-        "Alternativa 2"
-    ]
-}
     {
-        
+        enunciado = "É possível uma música ajudar a combater o Racismo? ",
+        alternativas: [
+            {
+                texto: "Sim.",
+                afirmação: "afirmção"
+            },
+            {
+                texto: "Não.",
+                afirmação: "afirmação"
+            }
+        ]
+    },
+    {
+        enunciado = "Os cantores demonstra Discrimina seus fãs?E se Sim eles se Responsabilizam por isso? ",
+        alternativas: [
+            {
+                texto: "Não.",
+                afirmação: "afirmção"
+            },
+            {
+                texto: "Sim.",
+                afirmação: "afirmação"
+            }
+        ]
+    },
+    {
+        enunciado = "As pessoas ajuda ou dá auxílio no resgates aos animais extintos? ",
+        alternativas: [
+            {
+                texto: "Sim.",
+                afirmação: "afirmção"
+            },
+            {
+                texto: "Não.",
+                afirmação: "afirmação"
+            }
+        ]
     }
 ]
