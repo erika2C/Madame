@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado = "Os cantores demonstra Discrimina seus fãs?E se Sim eles se Responsabilizam por isso? ",
+        enunciado = "Os cantores discriminam seus fãs?E se Sim eles se Responsabilizam por isso? ",
         alternativas: [
             {
                 texto: "Não.",
